@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: FrameFadeLich
+## Notes: A simple addon for WoW 3.3.5a compatible with ElvUI
+## Author: stasrusnak
+## Version: 1.0
+FrameFadeLich.lua
